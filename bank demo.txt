@@ -1,0 +1,6 @@
+https://github.com/razorpay/ifsc/releases     ifsc and bank details
+
+admin login - branch selection, users, new application.
+
+App Theme - #1774FF and White
+

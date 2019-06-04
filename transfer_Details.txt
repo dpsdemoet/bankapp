@@ -1,0 +1,34 @@
+imps - Immediate Payment Service
+      24x7
+      through mobile phone
+      Using IMPS, you can transfer comparatively lower amounts, up to Rs. 2 lakhs, instantly.
+      The service fee for IMPS transactions is pretty low, ranging from Rs. 2.5 to Rs. 15.
+
+neft - National Electronic Funds Transfer (NEFT)
+      Free, no charges to be collected from beneficiaries
+      Outward transactions at originating bank branches (charges for the remitter):
+   
+      For transactions up to ?10,000 (not exceeding) : ?2.50 (+ GST)
+      For transactions above ?10,000 up to ?1 lakh (not exceeding) : ?5 (+ GST)
+      For transactions above ?1 lakh and up to ?2 lakhs (not exceeding) : ?15 (+ GST)
+      For transactions above ?2 lakhs : ?25 (+ GST)
+
+      8:00 AM and 7:00 PM on week days and the 1st, 3rd and 5th Saturday of the calendar month.
+      Transfers initiated outside this time period are settled at the next available window. 
+      No settlements are made on the second and fourth Saturday of the month, or on Sundays, or on public holidays. 
+
+
+RTGS - Real Time Gross Settlement
+      There’s a minimum limit of Rs. 2 lakhs for RTGS transactions, and there’s no maximum limit as such.
+       The service fee is a bit higher for RTGS transactions: each transaction is charged from Rs. 30 to Rs. 50. 
+       8:00 AM and 7:00 PM on week days and the 1st, 3rd and 5th Saturday of the calendar month.
+      Transfers initiated outside this time period are settled at the next available window. 
+      No settlements are made on the second and fourth Saturday of the month, or on Sundays, or on public holidays. 
+
+
+advanced
+
+
+UPI - unified payments interface
+      upto 1L using vpa(virtual payment address).
+
